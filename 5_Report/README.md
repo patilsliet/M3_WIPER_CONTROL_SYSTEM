@@ -109,6 +109,18 @@ important role to be played
 ## Structural diagram of the wiper system
 ![image](https://user-images.githubusercontent.com/101171908/168110541-5c537b1f-976f-443e-8716-b622fb7ea20f.png)
 
+# TEST PLAN
+## High level test plan
+|ID|	Description|	Expected O/P|	Actual O/P|	Type of test|
+|--|-------------|--------------|-----------|-------------|
+|H_01|	Wiper is moving along the windshield|	PASSED	|SUCCESS	|Scenario|
+|H_02	|Wiper is comes to rest at the end	|PASSED|	SUCCESS|	Boundary|
+## Low level test plan
+|ID|	Description	|Expected O/P	|Actual O/P|	Type of test|
+|--|--------------|-------------|----------|--------------|
+|L_01|	Car turned on|	PASSED|	SUCCESS	|Scenario|
+|L_02|	Car turned off	|PASSED|	SUCCESS	|Boundary|
+
 
 
 
