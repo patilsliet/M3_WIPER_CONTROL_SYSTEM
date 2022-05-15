@@ -1,6 +1,6 @@
 /**
  * @file carwiper.c
- * @author Aditya Kumar Suman
+ * @author Amitkumar Patil
  * @brief car wiper control
  * @version 0.1
  * @date 2022-05-12
